@@ -6,7 +6,7 @@
 
 |**Name**|**Login**|
 | :- | :- |
-|**Матвей**|**ImplementLife**|
-|**Илья**|**excelsiooor**|
-|**Влад**|**AmateurBoy**|
+|**Матвій**|**ImplementLife**|
+|**Ілля**|**AmateurBoy**|
+|**Влад**|**excelsiooor**|
 
